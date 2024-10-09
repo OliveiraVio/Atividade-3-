@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\refint\02 - ATIVIDADE.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\bin\Debug\net8.0\02 - ATIVIDADE.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\bin\Debug\net8.0\02 - ATIVIDADE.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\bin\Debug\net8.0\02 - ATIVIDADE.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\bin\Debug\net8.0\02 - ATIVIDADE.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\bin\Debug\net8.0\02 - ATIVIDADE.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\02 - ATIVIDADE.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 3\02 - ATIVIDADE\02 - ATIVIDADE\obj\Debug\net8.0\ref\02 - ATIVIDADE.dll
